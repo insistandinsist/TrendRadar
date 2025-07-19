@@ -9,8 +9,13 @@ DeepSeek
 鸿蒙
 HarmonyOS
 
+新能源
 比亚迪
 王传福
+哪吒
+饺子
+!车
+!餐
 
 宇树
 王兴兴
@@ -18,13 +23,7 @@ HarmonyOS
 稚晖君
 智元
 
-黑神话
-冯骥
 
-哪吒
-饺子
-!车
-!餐
 
 流浪地球
 郭帆
@@ -57,11 +56,16 @@ AMD
 google
 gemini
 deepmind
-
 chatgpt
 Sam Altman
 openai
-
+ai
+!gai
+人工智能
+qwen
+grok
+claude
+kimi
 claude
 Anthropic
 
@@ -72,13 +76,7 @@ ipad
 mac
 ios
 
-ai
-!gai
-人工智能
-qwen
-grok
-claude
-kimi
+
 
 汽车
 自动驾驶
