@@ -31,10 +31,6 @@ HarmonyOS
 三体
 刘慈欣
 
-米哈游
-原神
-星穹铁道
-
 京东
 刘强东
 
@@ -79,6 +75,10 @@ ios
 ai
 !gai
 人工智能
+qwen
+grok
+claude
+kimi
 
 汽车
 自动驾驶
